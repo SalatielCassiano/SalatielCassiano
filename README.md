@@ -1,5 +1,6 @@
 ### Olá, Eu sou Salatiel Cassiano 🙋🏻
 - Curso Análise e Desenvolvimento de Sistemas
+- Sou apaixonadamente comprometido em adquirir habilidades de programação de forma autêntica e verdadeira
 - Meu portfólio abaixo em "WEBSITE"
  <br>
 
